@@ -8,7 +8,16 @@ The application is designed to help teams manage projects, team members, tasks, 
 
 **Current Phase:** Phase 0 – Project Setup
 
-**Current Module:** Project Foundation
+**Completed:**
+- GitHub repository setup
+- Project structure
+- Spring Boot backend setup
+- MySQL database setup
+- Backend-MySQL configuration
+- Initial health check API
+
+**Next:**
+- React + Vite frontend setup
 
 ## 🛠️ Technology Stack
 

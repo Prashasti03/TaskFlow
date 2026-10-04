@@ -1,0 +1,61 @@
+# =========================
+# Java / Maven
+# =========================
+
+backend/target/
+*.class
+
+# =========================
+# IDE
+# =========================
+
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# =========================
+# Node / React
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# =========================
+# Environment files
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Spring Boot local config
+# =========================
+
+application-local.properties
+application-local.yml
+
+# =========================
+# Logs
+# =========================
+
+*.log
+logs/
+
+# =========================
+# OS generated files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+
+*.tmp
+*.temp
